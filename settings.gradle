@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "PTSGANJIL202111RPL1BRYAN6"
